@@ -17,4 +17,3 @@ export interface ImageData {
   parameters: ImageParameters
   createdAt: string
 }
-
